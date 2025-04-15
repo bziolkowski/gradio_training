@@ -16,4 +16,4 @@ def calc(text):
     else:
         result = arg1 / arg2
 
-    print(result)
+    return result
